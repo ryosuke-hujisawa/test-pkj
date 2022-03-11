@@ -3,7 +3,7 @@
   "main": "dist/my-component.common.js",
   "unpkg": "./dist/my-component.umd.min.js",
   "jsdelivr": "./dist/my-component.umd.min.js",
-  "version": "0.6.0",
+  "version": "0.1.0",
   "publishConfig": {
     "access": "restricted",
     "@ryosuke-hujisawa:registry": "https://npm.pkg.github.com"
