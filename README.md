@@ -1,24 +1,6 @@
-# test-pkj
 
-## Project setup
-```
-yarn install
-```
+## Vue3のコンポーネントをGitHub packagesへプライベートで配布する方法
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+この記事でやってることのサンプルパッケージです。ご自由にお使いください。
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://off.tokyo/blog/vue3-com-github-packages-private/
